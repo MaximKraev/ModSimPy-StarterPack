@@ -1,0 +1,1168 @@
+{
+  "title": "",
+  "children": [
+    {
+      "title": "[Modeling and Simulation in Python]",
+      "id": "655f168c-3f38-42bf-bd46-978ed9512f76",
+      "type": "page",
+      "pageId": "c0c83551-63a5-4419-9a0e-9d88e8adcaba",
+      "children": []
+    },
+    {
+      "title": "Chapter 0  Preface",
+      "id": "dfd22eb4-7484-43c5-8a76-e632cd69db46",
+      "type": "chapter",
+      "pageId": "7c1d5a70-9e34-4720-a4ee-48a7dd2b1602",
+      "children": [
+        {
+          "title": "0.1  Can modeling be taught?",
+          "id": "62881013-ccec-4818-bce0-19a143513520",
+          "type": "page",
+          "pageId": "9bdc5110-07b2-4971-992c-d0387c611783",
+          "children": []
+        },
+        {
+          "title": "0.2  How much programming do I need?",
+          "id": "d5d9227e-f443-422d-8440-4971a3358a40",
+          "type": "page",
+          "pageId": "e27e2eeb-dae9-4fe3-9891-1d9aaffe0fea",
+          "children": []
+        },
+        {
+          "title": "0.3  How much math and science do I need?",
+          "id": "870f94a3-2a81-4d5b-9396-2fa8738ec4cd",
+          "type": "page",
+          "pageId": "589db697-45c7-4159-a6bf-5ee2750eba6a",
+          "children": []
+        },
+        {
+          "title": "0.4  Getting started",
+          "id": "fd2fd51e-d14e-4ef7-b531-2e5e0e64ca74",
+          "type": "page",
+          "pageId": "de1563e2-43d3-45d9-86b0-1604db3819ea",
+          "children": []
+        },
+        {
+          "title": "0.5  Installing Python",
+          "id": "91d16b83-e721-4ec8-9ad5-b6bda5e7b119",
+          "type": "page",
+          "pageId": "32ea1638-d4ff-4c79-a16f-05c979193df2",
+          "children": []
+        },
+        {
+          "title": "0.6  Copying my files",
+          "id": "d969f0c6-02f9-4c9e-8072-c24bbfb45b10",
+          "type": "page",
+          "pageId": "9f262bb1-22bb-425d-9615-b3971fa68569",
+          "children": []
+        },
+        {
+          "title": "0.7  Running Jupyter",
+          "id": "07eb338a-3107-426a-8255-a065a8792725",
+          "type": "page",
+          "pageId": "3ae58906-fa5c-43d9-bdd9-d2438461ba14",
+          "children": []
+        },
+        {
+          "title": "Contributor List",
+          "id": "5a1ae67a-189c-4979-ac48-a5627ec54ab3",
+          "type": "page",
+          "pageId": "ad025ed7-173e-4fb4-9ff8-0840792dc544",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "2aa191d3-cbd2-4e20-9059-d95011adb286",
+          "type": "page",
+          "pageId": "32a502bc-62d5-4278-8ae8-52da0315083d",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 1  Modeling",
+      "id": "25945140-2169-4f42-9305-2879b7727176",
+      "type": "chapter",
+      "pageId": "11b6627c-8f57-4c6b-91a1-565f5b9b01a5",
+      "children": [
+        {
+          "title": "1.1  The falling penny myth",
+          "id": "ffe6092f-2f06-43b6-bf20-f04187d0fc9f",
+          "type": "page",
+          "pageId": "963af98c-f3a6-4f95-bdff-d1515f5c3460",
+          "children": []
+        },
+        {
+          "title": "1.2  Computation",
+          "id": "49a069a6-cb49-45c5-9220-cd62ef8a88a8",
+          "type": "page",
+          "pageId": "6d672a1b-76e6-4e77-ab50-e4679cebe43a",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2  Bike share",
+      "id": "9424b3f8-d8d8-475b-b4be-3c06dea0c47a",
+      "type": "chapter",
+      "pageId": "e6efa2b5-86bd-42ba-95a0-059fa32e9c45",
+      "children": [
+        {
+          "title": "2.1  Bikeshare",
+          "id": "c972c04d-fbd9-4357-aaa3-b826a760daa5",
+          "type": "page",
+          "pageId": "2b2b888f-d41e-498e-9138-b408e2c1fbdc",
+          "children": []
+        },
+        {
+          "title": "2.2  Defining functions",
+          "id": "3e5b8d4b-b8dd-4b68-9457-b33b928169db",
+          "type": "page",
+          "pageId": "7d585e2b-98a8-4ddf-9b3e-d2fe03b9cd27",
+          "children": []
+        },
+        {
+          "title": "2.3  Print statements",
+          "id": "bd452c7d-2fd5-4b21-b46c-a36ab9b90bb3",
+          "type": "page",
+          "pageId": "96e54707-c607-4f4f-bdc6-03298825b32a",
+          "children": []
+        },
+        {
+          "title": "2.4  If statements",
+          "id": "f10cf3ca-969f-4d4e-82a4-a78ca751e271",
+          "type": "page",
+          "pageId": "5a3be5ae-1a17-4b47-bf31-8551e05c1a13",
+          "children": []
+        },
+        {
+          "title": "2.5  Parameters",
+          "id": "23c6cae8-c751-45e3-b5ae-81ef45028c15",
+          "type": "page",
+          "pageId": "009c130b-f51e-4c7f-91b5-8ec112b6019a",
+          "children": []
+        },
+        {
+          "title": "2.6  For loops",
+          "id": "7130724b-f40d-4c93-9ded-4f30fe96771d",
+          "type": "page",
+          "pageId": "0a8a61fa-74c5-4d44-a15c-f04aeadd8a46",
+          "children": []
+        },
+        {
+          "title": "2.7  TimeSeries",
+          "id": "a7c1d50f-f37f-4ae5-8e55-84ecb82130b1",
+          "type": "page",
+          "pageId": "d81ceaca-a12c-4f34-b11a-4e52e9d46e9b",
+          "children": []
+        },
+        {
+          "title": "2.8  Plotting",
+          "id": "b576266b-2b67-43a3-84cd-fc21093e0f19",
+          "type": "page",
+          "pageId": "cd41b0e1-c1d0-4807-aeb4-3bcec1475824",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3  Iterative modeling",
+      "id": "14e7041d-ab6d-477e-a987-993e90ed1755",
+      "type": "chapter",
+      "pageId": "fcd58978-d259-4bbe-9f0a-207987298ca3",
+      "children": [
+        {
+          "title": "3.1  Iterative modeling",
+          "id": "55b5ba25-c101-4cb3-b220-64b0a6303efc",
+          "type": "page",
+          "pageId": "6ceaeab1-44cf-4415-825a-eea9ada0b86f",
+          "children": []
+        },
+        {
+          "title": "3.2  More than one State object",
+          "id": "f088532b-d120-4d46-8faf-1e03808c8975",
+          "type": "page",
+          "pageId": "50cbff32-945a-4568-88bb-dd7060620f44",
+          "children": []
+        },
+        {
+          "title": "3.3  Documentation",
+          "id": "a58f0f1b-bbaf-4b80-b1ce-f9139b64de03",
+          "type": "page",
+          "pageId": "b04665cf-50c1-42ac-968e-a8b46b14d8e8",
+          "children": []
+        },
+        {
+          "title": "3.4  Negative bikes",
+          "id": "3f818ff4-b2cd-433e-83ba-0387bb576412",
+          "type": "page",
+          "pageId": "4b377439-05d4-42d1-9b44-469f0efef47a",
+          "children": []
+        },
+        {
+          "title": "3.5  Comparison operators",
+          "id": "6637395d-b7fa-45ae-9383-88aa17b16641",
+          "type": "page",
+          "pageId": "d3a4c6d3-ba84-495f-ba3a-5acae0e50eb2",
+          "children": []
+        },
+        {
+          "title": "3.6  Metrics",
+          "id": "63681463-1274-4d94-8f69-8b3b733cf125",
+          "type": "page",
+          "pageId": "387f51ea-553e-4093-ba65-4987c9f0f509",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4  Sweeping parameters",
+      "id": "319bf352-cb54-41b4-b084-29f3a202ce6e",
+      "type": "chapter",
+      "pageId": "26282b7b-1817-42df-828e-f0e2a1f96047",
+      "children": [
+        {
+          "title": "4.1  Functions that return values",
+          "id": "ef9f3cc6-709a-44d2-b4f6-1498da17124b",
+          "type": "page",
+          "pageId": "3e54e1d0-a3c3-4838-a53d-d3e1e1c4b1c2",
+          "children": []
+        },
+        {
+          "title": "4.2  Two kinds of parameters",
+          "id": "d02c6d76-9487-4eea-a709-bc9172dc6ee3",
+          "type": "page",
+          "pageId": "9a729f14-445c-4bca-bf38-9962f35c19af",
+          "children": []
+        },
+        {
+          "title": "4.3  Loops and arrays",
+          "id": "a072b732-b74c-4c96-8114-5f294021c49a",
+          "type": "page",
+          "pageId": "fa34ef87-4bba-4b5e-b781-9e86cfff0177",
+          "children": []
+        },
+        {
+          "title": "4.4  Sweeping parameters",
+          "id": "57b395e3-dc97-4af3-b3cf-e950bfbcd0b4",
+          "type": "page",
+          "pageId": "1b0bdee5-d362-4c32-acb3-e1f706b4d342",
+          "children": []
+        },
+        {
+          "title": "4.5  Incremental development",
+          "id": "e2e23345-65a6-4bc8-9c19-673ae38268cb",
+          "type": "page",
+          "pageId": "135f7ace-3726-49dd-95bc-286b58152792",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5  World population",
+      "id": "40c50519-f6e8-4bb6-8068-3b5861697110",
+      "type": "chapter",
+      "pageId": "18df6c8a-ceb7-4e68-b3ff-0442ff31e585",
+      "children": [
+        {
+          "title": "5.1  World Population Data",
+          "id": "e9deef20-6c02-44b0-911c-1d13da0adb04",
+          "type": "page",
+          "pageId": "13082b7b-63a5-46ff-b7f1-50dfc030de51",
+          "children": []
+        },
+        {
+          "title": "5.2  Plotting",
+          "id": "6fda8938-0c0b-4956-91f6-7f794fec8ae2",
+          "type": "page",
+          "pageId": "068b99f3-4998-4536-b808-37ce4cc4943e",
+          "children": []
+        },
+        {
+          "title": "5.3  Constant growth model",
+          "id": "abdb89e4-bd4c-49ba-bbc9-41b79ab54f62",
+          "type": "page",
+          "pageId": "fc160a95-a96c-4777-acab-4c191ca3073d",
+          "children": []
+        },
+        {
+          "title": "5.4  Simulation",
+          "id": "c5423651-e343-4276-83e7-94a61551f9c0",
+          "type": "page",
+          "pageId": "900760be-3afa-400d-b5e1-0a397e6ad144",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6  Modeling growth",
+      "id": "f61d09be-e055-4e63-87d2-03bad88ce920",
+      "type": "chapter",
+      "pageId": "fb75d49f-eab7-4f5e-a320-4ebbff8e9dba",
+      "children": [
+        {
+          "title": "6.1  System objects",
+          "id": "5885ea47-8ad9-4743-a9ab-630ee5601284",
+          "type": "page",
+          "pageId": "e88e4364-010d-4c73-83b4-2336dd079920",
+          "children": []
+        },
+        {
+          "title": "6.2  Proportional growth model",
+          "id": "ae63c98f-1d2b-4883-b1ae-65f35de9aa83",
+          "type": "page",
+          "pageId": "477b13c3-7ff3-491f-bd2c-7b78a29f3262",
+          "children": []
+        },
+        {
+          "title": "6.3  Factoring out the update function",
+          "id": "482e923d-d5c7-44e9-9971-ff0e4c436033",
+          "type": "page",
+          "pageId": "a2008247-be8d-49f6-bc67-8ac5f9ff0ef9",
+          "children": []
+        },
+        {
+          "title": "6.4  Combining birth and death",
+          "id": "1ae424c5-209b-4cf7-a13f-923c8c85709f",
+          "type": "page",
+          "pageId": "fb28a771-a899-4163-9284-e644e9bb56a2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7  Quadratic growth",
+      "id": "e28faa9d-6d86-4836-a8de-601fbca2cc6d",
+      "type": "chapter",
+      "pageId": "cbfff716-37c9-40dd-a3d7-89c5f1c15e9a",
+      "children": [
+        {
+          "title": "7.1  Quadratic growth",
+          "id": "9d4afe70-d3fa-4d88-8456-f515b7181898",
+          "type": "page",
+          "pageId": "b1395097-3eb9-4237-a9e7-904cdb3a4cba",
+          "children": []
+        },
+        {
+          "title": "7.2  Equilibrium",
+          "id": "8cb6c22f-1e28-4160-a4a2-8eb6db8408b3",
+          "type": "page",
+          "pageId": "5094679e-dfb6-4777-bb96-c788926a4146",
+          "children": []
+        },
+        {
+          "title": "7.3  Dysfunctions",
+          "id": "0753114b-3eda-4098-ad42-915633759311",
+          "type": "page",
+          "pageId": "d29c4544-1cec-4029-88f6-2490c092067b",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8  Prediction",
+      "id": "681deefc-e7c9-4c2a-b2d9-5c6e23d71bd5",
+      "type": "chapter",
+      "pageId": "305e3bc4-135a-4eb1-991f-bcb5268a6ed9",
+      "children": [
+        {
+          "title": "8.1  Generating projections",
+          "id": "36280774-517a-4004-a11b-3a1c4feee35d",
+          "type": "page",
+          "pageId": "2020d94b-b3a3-46c2-bb6d-4d764bd06b77",
+          "children": []
+        },
+        {
+          "title": "8.2  Comparing projections",
+          "id": "17ad6385-c38f-4a51-80de-166aaa119fb4",
+          "type": "page",
+          "pageId": "1a04c2a2-6923-4961-8e29-09ea4406902a",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9  Analysis",
+      "id": "443e0e61-f858-4d83-8f3f-b30fd1fe0c1c",
+      "type": "chapter",
+      "pageId": "8d827163-4295-432f-a0b8-977da5972f2e",
+      "children": [
+        {
+          "title": "9.1  Recurrence relations",
+          "id": "8d95a2d0-4f98-4068-ab52-379bea885991",
+          "type": "page",
+          "pageId": "87e58712-2ce3-4d9f-a0e2-8c372538fb39",
+          "children": []
+        },
+        {
+          "title": "9.2  Differential equations",
+          "id": "4035d97a-a06a-47d3-821d-7c6e7fb6f1bb",
+          "type": "page",
+          "pageId": "1e486434-413d-4dbe-b75a-edb8a05156f8",
+          "children": []
+        },
+        {
+          "title": "9.3  Analysis and simulation",
+          "id": "399b9cb3-3aaa-4add-b79e-3df8385d3b4a",
+          "type": "page",
+          "pageId": "d8cd02a3-f120-4c52-a352-0a7d223df1c8",
+          "children": []
+        },
+        {
+          "title": "9.4  Analysis with WolframAlpha",
+          "id": "6945f328-948d-4421-a2c8-fd3b5b685564",
+          "type": "page",
+          "pageId": "0bab2060-c676-459c-82a3-8f0285c5b4bd",
+          "children": []
+        },
+        {
+          "title": "9.5  Analysis with SymPy",
+          "id": "5373b309-6d89-449b-ad17-7041ae04ff37",
+          "type": "page",
+          "pageId": "9551bb43-b5da-4110-a018-0fb55c33f448",
+          "children": []
+        },
+        {
+          "title": "9.6  Differential equations in SymPy",
+          "id": "d7734fc6-9212-4552-8b8a-644f9f91c19d",
+          "type": "page",
+          "pageId": "2f4e1aea-1f9f-477b-a587-670c99526bd6",
+          "children": []
+        },
+        {
+          "title": "9.7  Solving the quadratic growth model",
+          "id": "c4e01f54-e35e-429f-801b-bbd0edb26e2c",
+          "type": "page",
+          "pageId": "eb934be8-d29c-4c1c-a5a4-cc0b38a4f2e5",
+          "children": []
+        },
+        {
+          "title": "9.8  Summary",
+          "id": "fce12577-f967-4387-84f5-79e3e15c41c0",
+          "type": "page",
+          "pageId": "0db4359a-fe9b-4df7-8aad-643ee9ca35b8",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "2070d823-717a-46ad-991b-72c700033387",
+          "type": "page",
+          "pageId": "682a11f6-99cb-4962-8c56-838d111d846a",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10  Case studies",
+      "id": "b5ac2955-391e-481f-8fbc-a7a48d321576",
+      "type": "chapter",
+      "pageId": "e36b3056-80f2-4367-bcfb-d1a1a5fab846",
+      "children": [
+        {
+          "title": "10.1  Computational tools",
+          "id": "232a5759-3512-4f12-9146-5efbdfc00e90",
+          "type": "page",
+          "pageId": "e22da623-e86e-43bd-a481-f4d0d87671fa",
+          "children": []
+        },
+        {
+          "title": "10.2  Under the hood",
+          "id": "cdeb12b6-a8c5-401e-ba74-fa76d6c33879",
+          "type": "page",
+          "pageId": "7fbf8f86-23e8-4a8a-ac17-f903977cadff",
+          "children": []
+        },
+        {
+          "title": "10.3  One queue or two?",
+          "id": "6c90d4f8-552f-4f8e-a278-410a54d6ccc2",
+          "type": "page",
+          "pageId": "da73aa28-5412-475b-846f-c0b50bb052b9",
+          "children": []
+        },
+        {
+          "title": "10.4  Predicting salmon populations",
+          "id": "3a6e4638-a8ed-442f-8de8-6d158ba7489f",
+          "type": "page",
+          "pageId": "cf9f18cd-aa5e-4494-9333-2cb8d9f4a049",
+          "children": []
+        },
+        {
+          "title": "10.5  Tree growth",
+          "id": "ea757896-5968-43d9-a1c0-01c502de794a",
+          "type": "page",
+          "pageId": "f1df2a30-50d2-40c9-a311-01829db21864",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11  Epidemiology",
+      "id": "a5aadc89-7bc3-438a-8693-daeb3857eaff",
+      "type": "chapter",
+      "pageId": "356c4e5d-84fb-4f02-a8ac-b9668cb539d8",
+      "children": [
+        {
+          "title": "11.1  The Freshman Plague",
+          "id": "2292c92f-a655-49e2-9b8c-af8b81a52241",
+          "type": "page",
+          "pageId": "28cd955a-e6e7-4264-94fe-7baa115e8d0b",
+          "children": []
+        },
+        {
+          "title": "11.2  The SIR model",
+          "id": "954bf0ec-f252-4b42-b442-b3c19b1ef0e9",
+          "type": "page",
+          "pageId": "4591a9cb-1c41-487b-bce5-c0a69199ab92",
+          "children": []
+        },
+        {
+          "title": "11.3  The SIR equations",
+          "id": "0c45d702-ad08-435d-8420-8f23d6c0fc6c",
+          "type": "page",
+          "pageId": "1acaf497-521e-4b58-a232-47b9b7f214e4",
+          "children": []
+        },
+        {
+          "title": "11.4  Implementation",
+          "id": "c70155f6-3f5e-4814-af52-e29f17848230",
+          "type": "page",
+          "pageId": "93c1627e-5a03-4bd8-9577-0a8dae4ab634",
+          "children": []
+        },
+        {
+          "title": "11.5  The update function",
+          "id": "68f529b6-ffa5-45e4-b69d-d2eb1a57383e",
+          "type": "page",
+          "pageId": "c54e3c59-40ec-4e37-b6f9-db91bc33ec35",
+          "children": []
+        },
+        {
+          "title": "11.6  Running the simulation",
+          "id": "fe66c1b2-3777-4935-a7ab-671d06097bf2",
+          "type": "page",
+          "pageId": "541daa19-cfb7-4948-b268-7f53e1c2c1e6",
+          "children": []
+        },
+        {
+          "title": "11.7  Collecting the results",
+          "id": "4fc364a1-cae7-4f6b-86c3-54f6cd470151",
+          "type": "page",
+          "pageId": "c1818702-b671-4a5f-8a78-9bdf5a1e0f60",
+          "children": []
+        },
+        {
+          "title": "11.8  Now with a TimeFrame",
+          "id": "c3eef15d-fbfd-4547-b556-5214379a2dea",
+          "type": "page",
+          "pageId": "8b4d043c-7f35-4dd3-a4a1-06e2d402f3d8",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "9e3f1bbf-48b1-4d21-a5a4-ace231bd9983",
+          "type": "page",
+          "pageId": "9973c6a5-010f-4697-85e6-26389788e3b1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12  Optimization",
+      "id": "4c470777-f52b-415a-be4e-f183fe9bda2c",
+      "type": "chapter",
+      "pageId": "8c7bb10d-df90-4c2a-b752-ba617bf51a0a",
+      "children": [
+        {
+          "title": "12.1  Metrics",
+          "id": "1de73c21-94f8-45ae-a921-dd301a98e810",
+          "type": "page",
+          "pageId": "de15e747-52ba-4aa3-a53e-32bf64c15d41",
+          "children": []
+        },
+        {
+          "title": "12.2  Immunization",
+          "id": "9453f941-7a9d-4781-afa0-98449bfc980c",
+          "type": "page",
+          "pageId": "0541dbc9-4220-40a5-b34a-1bfc3187c371",
+          "children": []
+        },
+        {
+          "title": "12.3  Hand washing",
+          "id": "0c0eba59-3a30-43f0-b94d-e7ef7c725f4a",
+          "type": "page",
+          "pageId": "63c15242-d96e-42b5-afe1-a3850630bab1",
+          "children": []
+        },
+        {
+          "title": "12.4  Optimization",
+          "id": "41857081-aa36-4d59-a80d-7968a05e5c2d",
+          "type": "page",
+          "pageId": "1a653b77-8287-48ba-b85c-f5c45bdc036b",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13  Sweeping two parameters",
+      "id": "830701d6-6981-49dc-8d65-85fb95e9aae0",
+      "type": "chapter",
+      "pageId": "6dc4608b-2f08-4e88-bcff-cef076d48a11",
+      "children": [
+        {
+          "title": "13.1  Unpack",
+          "id": "d55c6b54-ffc1-4414-8c7f-5694ffb26207",
+          "type": "page",
+          "pageId": "89740154-9b1a-4a21-8e95-eb5307527939",
+          "children": []
+        },
+        {
+          "title": "13.2  Sweeping beta",
+          "id": "32bc6d7d-65ef-494f-bd9c-bdc93105222d",
+          "type": "page",
+          "pageId": "95754fb2-70c9-42aa-86c6-8215798a9486",
+          "children": []
+        },
+        {
+          "title": "13.3  Sweeping gamma",
+          "id": "02fdbdf5-ea60-4e70-8b1c-2c4bfe49a4ea",
+          "type": "page",
+          "pageId": "774e5870-b98b-4e84-8c06-b0f7bc3d12d7",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14  Analysis",
+      "id": "22d2e86c-5a01-498a-bf79-25c641175019",
+      "type": "chapter",
+      "pageId": "7886cf63-16fb-42fb-89e7-26736265a78b",
+      "children": [
+        {
+          "title": "14.1  Nondimensionalization",
+          "id": "e0c9af58-1e7a-42c1-8934-7ecc9d647882",
+          "type": "page",
+          "pageId": "80fe7aa1-5426-4398-9d2e-20756c94a0b2",
+          "children": []
+        },
+        {
+          "title": "14.2  Contact number",
+          "id": "17811762-dc1f-4102-b427-9be047156d8b",
+          "type": "page",
+          "pageId": "c3f1a958-fc05-4afc-a8fb-41fc48b8254c",
+          "children": []
+        },
+        {
+          "title": "14.3  Analysis and simulation",
+          "id": "a037454b-6276-4eb1-ac7e-1a5e2cea4ec3",
+          "type": "page",
+          "pageId": "bee4dfbd-b281-4353-a3a3-478fb8325f2b",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15  Heat",
+      "id": "b24e06cd-6cbc-4554-9292-bc47c40415ec",
+      "type": "chapter",
+      "pageId": "8c4c161c-6956-4807-a16f-9b161874b476",
+      "children": [
+        {
+          "title": "15.1  The coffee cooling problem",
+          "id": "4f1e0642-8e09-42d7-b342-58dc36dc0fdd",
+          "type": "page",
+          "pageId": "5415afd9-6d23-43ab-9603-84a2e3858f72",
+          "children": []
+        },
+        {
+          "title": "15.2  Temperature and heat",
+          "id": "64de3ff3-dac8-43fa-af47-fbcb7af4d3c4",
+          "type": "page",
+          "pageId": "a2d0c349-3d22-4130-ad58-ff5a78003f3e",
+          "children": []
+        },
+        {
+          "title": "15.3  Heat transfer",
+          "id": "2d2088fd-0ebf-4299-bd5a-eeead6fcf0c4",
+          "type": "page",
+          "pageId": "6b463998-1481-414e-a682-8972bb4c0fd8",
+          "children": []
+        },
+        {
+          "title": "15.4  Newton's law of cooling",
+          "id": "0afb6e58-fbff-475b-83f1-532053ef3b5a",
+          "type": "page",
+          "pageId": "08a4355e-98aa-4230-90bc-d201bf93310a",
+          "children": []
+        },
+        {
+          "title": "15.5  Implementation",
+          "id": "d68c2a60-ec1a-46ac-951c-bc6ce7226a1d",
+          "type": "page",
+          "pageId": "a088c223-a5d7-4505-8875-4ee99f6300ef",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "ec606959-cef2-4e8a-99b7-649f2e0a06b1",
+          "type": "page",
+          "pageId": "f3d96d8f-7731-4d18-bd85-edffc94a268e",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16  Mixing",
+      "id": "3753f25d-4a98-455b-b081-1a89cba7d1f1",
+      "type": "chapter",
+      "pageId": "ce680c8d-206b-4695-a439-fcb62c660193",
+      "children": [
+        {
+          "title": "16.1  Using fsolve",
+          "id": "0ac25807-c480-4b9f-aa81-2aae035d1309",
+          "type": "page",
+          "pageId": "4270931d-709c-4319-b79b-d5c5badfc7c1",
+          "children": []
+        },
+        {
+          "title": "16.2  Mixing liquids",
+          "id": "e02e9b1f-2f54-4b7a-aed3-a58a9e88300d",
+          "type": "page",
+          "pageId": "ebe86ec3-20d5-468a-8dc6-4a43dc0ff171",
+          "children": []
+        },
+        {
+          "title": "16.3  Mix first or last?",
+          "id": "bdbbbebc-b03d-4e00-bfcd-2f83a3adf9cf",
+          "type": "page",
+          "pageId": "43c58412-8598-4bd0-afe6-40e9d4892ad0",
+          "children": []
+        },
+        {
+          "title": "16.4  Optimization",
+          "id": "357df416-defd-4f09-a821-539cb12db7a4",
+          "type": "page",
+          "pageId": "f00a8836-ed28-4a95-8fa1-95c3e6b3851b",
+          "children": []
+        },
+        {
+          "title": "16.5  Analysis",
+          "id": "24826aa6-5fd8-4e3a-b37c-757c989776a5",
+          "type": "page",
+          "pageId": "61664c46-1b8e-455b-b77d-fbfe6f8d0be3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17  Pharmacokinetics",
+      "id": "9c0d6b59-0d01-4c5d-9fc5-999a68dffaa6",
+      "type": "chapter",
+      "pageId": "f63a19c0-09e2-4885-a9bf-8ba2142bfacb",
+      "children": [
+        {
+          "title": "17.1  The glucose-insulin system",
+          "id": "54c383a0-bd2c-4f1e-994d-c779198d36e9",
+          "type": "page",
+          "pageId": "f5aecb26-73f1-4b87-a74c-715fa1bb31ce",
+          "children": []
+        },
+        {
+          "title": "17.2  The glucose minimal model",
+          "id": "916a0ba9-eee4-4dd9-8c49-abf63a9738e8",
+          "type": "page",
+          "pageId": "2c19198f-3a11-40df-ab19-5eefc788e27f",
+          "children": []
+        },
+        {
+          "title": "17.3  Data",
+          "id": "9056631c-3e1d-4ffb-b58b-31ee713e54a9",
+          "type": "page",
+          "pageId": "bce4cd89-7b70-4d82-a4ed-0df220d8c68b",
+          "children": []
+        },
+        {
+          "title": "17.4  Interpolation",
+          "id": "cfa09adc-3100-4bf0-a9a7-b1b4fae1424b",
+          "type": "page",
+          "pageId": "946ab009-7b5e-42ab-8f99-17603144b27d",
+          "children": []
+        },
+        {
+          "title": "17.5  Implementation",
+          "id": "a0baa4e0-5ace-4bac-acb1-29bcd1cd3c55",
+          "type": "page",
+          "pageId": "0c95f659-0eb2-46b0-96cf-e04e2da12725",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "98e8f6ac-7894-477f-831f-d731fb829ff4",
+          "type": "page",
+          "pageId": "c49bd19e-b2ac-4960-8993-002fbefc84fe",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 18  Numerical methods",
+      "id": "62d0ccea-64a4-4425-a1c6-86dde5c9506c",
+      "type": "chapter",
+      "pageId": "17fa822e-c348-4e09-b664-3e7d87411157",
+      "children": [
+        {
+          "title": "18.1  Solving differential equations",
+          "id": "cdf0c139-bd0c-4057-abc5-7781c4e177c3",
+          "type": "page",
+          "pageId": "16f64c61-1c80-42cf-881a-4efd2afc9606",
+          "children": []
+        },
+        {
+          "title": "18.2  Least squares",
+          "id": "d0798768-0fbc-413f-9fda-d69637e1aba8",
+          "type": "page",
+          "pageId": "796d3c61-8815-4d69-8997-754d8699b7d8",
+          "children": []
+        },
+        {
+          "title": "18.3  Interpreting parameters",
+          "id": "8fbd279d-7d8c-4215-8ba5-b48036e78920",
+          "type": "page",
+          "pageId": "1ec6a7c0-ba68-4fa2-a9cf-bd113715f676",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 19  Case studies",
+      "id": "cf0264af-1246-4a49-937d-ee9d384ffb59",
+      "type": "chapter",
+      "pageId": "0b75796f-636a-4530-9064-249cee059e5b",
+      "children": [
+        {
+          "title": "19.1  Computational tools",
+          "id": "c52add35-f1f9-43be-a0f6-21eaf3b28afc",
+          "type": "page",
+          "pageId": "db70c737-b30b-4fa3-a0f7-307185ced913",
+          "children": []
+        },
+        {
+          "title": "19.2  Under the hood",
+          "id": "713a6c2c-6077-4ca2-8404-de1324090980",
+          "type": "page",
+          "pageId": "1670a807-6d25-4b61-a6aa-76861413ed38",
+          "children": []
+        },
+        {
+          "title": "19.3  The insulin minimal model",
+          "id": "23604689-d71e-484e-9e16-44ccec43129d",
+          "type": "page",
+          "pageId": "494760eb-2f9a-4b17-93d3-29c7c4e49033",
+          "children": []
+        },
+        {
+          "title": "19.4  Low-Pass Filter",
+          "id": "a6c68538-408c-4e39-aa12-bb6cea8bdad2",
+          "type": "page",
+          "pageId": "d0aaa856-2848-416c-91c8-829f8aeae2a5",
+          "children": []
+        },
+        {
+          "title": "19.5  Thermal behavior of a wall",
+          "id": "553a99f6-1652-4b92-8594-3383673ba375",
+          "type": "page",
+          "pageId": "62447830-09f7-4c4e-8d86-8783afbbb441",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "2d8027ac-9098-4d2c-b609-8087a41c02f1",
+          "type": "page",
+          "pageId": "dac3b1ce-94f1-422f-ab6c-b66b91801f5c",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 20  Projectiles",
+      "id": "b6e881ad-960c-4e71-8849-8bb2b02b1234",
+      "type": "chapter",
+      "pageId": "954f0f79-1415-4da1-b4ad-c75888c1399a",
+      "children": [
+        {
+          "title": "20.1  Newton's second law of motion",
+          "id": "45bbdf15-c9ef-4170-8d9f-d39b889ec835",
+          "type": "page",
+          "pageId": "7094dadf-3d7a-4c21-a19a-b8542383102b",
+          "children": []
+        },
+        {
+          "title": "20.2  Dropping pennies",
+          "id": "fdc0ac46-f33b-422a-bb6b-16d7f60aefe0",
+          "type": "page",
+          "pageId": "74717dbc-c221-43a9-a937-62d66c0423d3",
+          "children": []
+        },
+        {
+          "title": "20.3  Events",
+          "id": "2906fe26-8592-4f09-8e45-8e0c147cab39",
+          "type": "page",
+          "pageId": "0db296e0-3c85-4a95-97a9-638e6e689ac4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 21  Air resistance",
+      "id": "f7d4257a-9fd3-473b-a49d-f66ab6cc4a2e",
+      "type": "chapter",
+      "pageId": "57462955-e6e1-4842-aeb8-74ea6185acf5",
+      "children": [
+        {
+          "title": "21.1  Drag force",
+          "id": "1d7b252e-fee1-44bd-88d7-5fa885803098",
+          "type": "page",
+          "pageId": "d13be670-352e-41f3-8ce2-1d55ae94994e",
+          "children": []
+        },
+        {
+          "title": "21.2  Implementation",
+          "id": "592bf5dc-7ede-4ef6-95b7-aa6cb9df6355",
+          "type": "page",
+          "pageId": "748deaec-9b2a-4262-90ed-9e6b0bed6c12",
+          "children": []
+        },
+        {
+          "title": "21.3  Bungee jumping",
+          "id": "822ead7b-1f83-4ab0-bcef-d4cbc7d6dace",
+          "type": "page",
+          "pageId": "e6ad75b0-b129-4b8f-8ec8-fd9cd7f45703",
+          "children": []
+        },
+        {
+          "title": "21.4  Getting acceleration",
+          "id": "80306a41-0463-45c1-98f8-0eeb9d977f2e",
+          "type": "page",
+          "pageId": "deac210a-c0dc-447f-86c7-e164cf8d17ce",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 22  Projectiles in 2-D",
+      "id": "b5ee7e6b-080b-47fc-8bd9-f0ffd91a6473",
+      "type": "chapter",
+      "pageId": "841ccc99-57a9-4466-bc31-66edfb520452",
+      "children": [
+        {
+          "title": "22.1  Baseball",
+          "id": "289381cb-4dfd-44fa-9dd7-2a4f89703458",
+          "type": "page",
+          "pageId": "8910cd2f-f1da-403c-a52f-751d56c353b5",
+          "children": []
+        },
+        {
+          "title": "22.2  Vectors",
+          "id": "a139a9b2-854a-4f07-8c1b-cf2afb1c6b2c",
+          "type": "page",
+          "pageId": "2301c0eb-226f-4dd6-a2b2-97b41be667c2",
+          "children": []
+        },
+        {
+          "title": "22.3  Simulating baseball flight",
+          "id": "236f0a77-467c-40fb-94e2-bd93914ecacd",
+          "type": "page",
+          "pageId": "f2f056e3-26de-4b01-83d9-2859f8c6eb8f",
+          "children": []
+        },
+        {
+          "title": "22.4  Trajectories",
+          "id": "c8dd084a-7bf5-493c-9909-50c6fdb7cdc8",
+          "type": "page",
+          "pageId": "5a3cff61-df3d-4c0b-9876-36163a92c733",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "ed8fa350-c2a0-43c4-94cc-8c93a9e460e3",
+          "type": "page",
+          "pageId": "859bdccc-c92a-41d1-b7a6-df18a262cf6f",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 23  Optimization",
+      "id": "69e37fa3-3e9c-4a78-87d7-822e7f0a3858",
+      "type": "chapter",
+      "pageId": "9c2973dd-0540-4493-9b5d-e11e96a7ac54",
+      "children": [
+        {
+          "title": "23.1  The Manny Ramirez problem",
+          "id": "fa8e899f-6686-4be6-bdbb-07cb82e69ed0",
+          "type": "page",
+          "pageId": "08d13d47-4b3c-45f5-87e0-1933f7da5fee",
+          "children": []
+        },
+        {
+          "title": "23.2  Finding the range",
+          "id": "7410ae96-910e-47d9-968b-de7b13a9f05f",
+          "type": "page",
+          "pageId": "2b44f858-606c-4f53-88e2-5b0252bbbf24",
+          "children": []
+        },
+        {
+          "title": "23.3  Finishing off the problem",
+          "id": "8f2c680c-a8e7-45b1-a5bd-7d53511c08e6",
+          "type": "page",
+          "pageId": "6d137259-b4c1-4a29-8712-fb41ce411c4e",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 24  Rotation",
+      "id": "670787af-8c69-4db4-9982-9881eb5fcbc6",
+      "type": "chapter",
+      "pageId": "92012822-c405-44bd-969c-dd1cf897c2cb",
+      "children": [
+        {
+          "title": "24.1  The physics of toilet paper",
+          "id": "4f8daa70-e9a4-4ada-b03b-c53d4bfc2fb3",
+          "type": "page",
+          "pageId": "75815d82-5a7a-419a-8eb0-cb08a8196f1e",
+          "children": []
+        },
+        {
+          "title": "24.2  Implementation",
+          "id": "89a3dc56-1f49-4dad-afa5-2c8b474a67d1",
+          "type": "page",
+          "pageId": "6feffb6a-34ed-410f-8a23-cf42491e2308",
+          "children": []
+        },
+        {
+          "title": "24.3  Analysis",
+          "id": "7ae070b8-715e-47e4-802d-2212be44bddf",
+          "type": "page",
+          "pageId": "267bd397-d890-4eaa-983c-d7d0f24c3943",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 25  Torque",
+      "id": "2bd33740-ac44-48ce-84d8-af188e0e1a5d",
+      "type": "chapter",
+      "pageId": "e9dd2e01-0448-4a62-9b62-b45955e75a9d",
+      "children": [
+        {
+          "title": "25.1  Angular acceleration",
+          "id": "34a0fde9-b65b-44c8-bf62-de6d8fe918ac",
+          "type": "page",
+          "pageId": "459b24d8-adca-4c32-ad90-23cc686eb74a",
+          "children": []
+        },
+        {
+          "title": "25.2  Moment of inertia",
+          "id": "70df76c9-9745-44a6-9d75-240e200daeac",
+          "type": "page",
+          "pageId": "c1d5e84f-0f61-4fe5-975e-604c31f74a14",
+          "children": []
+        },
+        {
+          "title": "25.3  Teapots and turntables",
+          "id": "37087fda-9356-42ea-8a47-96d46c895791",
+          "type": "page",
+          "pageId": "d566c139-53cd-42ec-ba74-d41166a8c3aa",
+          "children": []
+        },
+        {
+          "title": "25.4  Estimating friction",
+          "id": "c4a6645d-d98f-4dec-8052-61f419e29ac0",
+          "type": "page",
+          "pageId": "c40f4878-16fb-48f6-bac1-0fdfe1476010",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "59419a17-aaec-4400-a5f8-f4604280d745",
+          "type": "page",
+          "pageId": "f5f7d836-89e4-4b9e-8975-237112a2ba87",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 26  Case studies",
+      "id": "6538f7ba-5236-44d6-a666-5de7cc27aee4",
+      "type": "chapter",
+      "pageId": "d050e542-54c1-4f73-a5d4-4c18f514ae66",
+      "children": [
+        {
+          "title": "26.1  Computational tools",
+          "id": "127349a8-64cb-44ec-ba2d-37a238c1bf1b",
+          "type": "page",
+          "pageId": "a2c8f09e-f65e-4ab0-9fcb-972d2461d0de",
+          "children": []
+        },
+        {
+          "title": "26.2  Under the hood",
+          "id": "061ab26f-4c1a-4e70-ad1a-0aba8011e0d4",
+          "type": "page",
+          "pageId": "5eae9675-d1cf-4bdb-901f-13f10ed25d02",
+          "children": []
+        },
+        {
+          "title": "26.3  Bungee dunk revisited",
+          "id": "80193d7c-fcd8-40fa-9041-10ea371d7f13",
+          "type": "page",
+          "pageId": "64d80cae-3527-4fd5-a890-9b6d688a9a7a",
+          "children": []
+        },
+        {
+          "title": "26.4  Spiderman",
+          "id": "e0fa10d5-bacb-4e1d-a8c5-ddd2314eb4e2",
+          "type": "page",
+          "pageId": "e4254eca-4e16-4444-870b-aa08bd7b8f6a",
+          "children": []
+        },
+        {
+          "title": "26.5  Kittens",
+          "id": "8583b2b3-e9da-4a14-9ee9-57506d6e66d1",
+          "type": "page",
+          "pageId": "35db5b83-b09e-473d-a5e5-d9a5a1a22f6a",
+          "children": []
+        },
+        {
+          "title": "26.6  Simulating a yo-yo",
+          "id": "120e1640-38a8-405d-a48d-baaee78c6454",
+          "type": "page",
+          "pageId": "9cbc2ce2-ad11-4b5a-b4e8-2186604e4071",
+          "children": []
+        },
+        {
+          "title": "",
+          "id": "89105349-e86e-4e3e-9137-f3f8a60ff0ea",
+          "type": "page",
+          "pageId": "9804a1a7-3043-41fc-a658-6551b9f924ff",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "id": "b6c29fae-1ab5-4c7f-85f5-8046d5d01ee4",
+      "type": "chapter",
+      "pageId": "5218ce69-58ed-46be-9029-4d7b3d681c50",
+      "children": [
+        {
+          "title": "Are you using one of our books in a class?",
+          "id": "679c30f0-a670-4380-a8ac-28e79236b527",
+          "type": "page",
+          "pageId": "092c4ceb-d0bc-499c-9641-050b36664e4c",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "name": ""
+}
